@@ -3,7 +3,7 @@
 
  RPG game based on Naruto characters. Originally wrote in Python.
 
-## Projeto
+## Project
 To start the game, run main.py file. Choose 3 characters, and start to think on your strategies.
 <img alt="naruto rpg" title="naruto-rpg" src="github/example.png" width="796px" height="462px"/>
 
